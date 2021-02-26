@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1590231296 source:c:\users\mixal\desktop\c++\avltree\avltree.cpp
+	"AvlTree.h"
+	"Node.h"
+	<iostream>
+	<string>
+	<algorithm>
+	<cstring>
+	<math.h>
+
+1590230276 c:\users\mixal\desktop\c++\avltree\avltree.h
+	"Node.h"
+
+1590228671 c:\users\mixal\desktop\c++\avltree\node.h
+	<string>
+	<iostream>
+
+1590228680 source:c:\users\mixal\desktop\c++\avltree\node.cpp
+	"Node.h"
+	"AvlTree.h"
+	<iostream>
+
+1590231210 source:c:\users\mixal\desktop\c++\avltree\main.cpp
+	<iostream>
+	<fstream>
+	"AvlTree.h"
+	<string>
+	<ctime>
+
